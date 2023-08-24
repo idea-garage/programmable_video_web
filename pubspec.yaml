@@ -1,9 +1,9 @@
 name: twilio_programmable_video_web
 description: A web implementation of the Twilio Programmable Video Plugin.
 version: 1.1.0
-homepage: https://gitlab.com/twilio-flutter/programmable-video
-repository: https://gitlab.com/twilio-flutter/programmable-video/-/tree/master/programmable_video_web
-issue_tracker: https://gitlab.com/twilio-flutter/programmable-video/issues
+homepage: https://github.com/idea-garage/programmable_video_web
+repository: https://github.com/idea-garage/programmable_video_web
+issue_tracker: https://github.com/idea-garage/programmable_video_web/issues
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
